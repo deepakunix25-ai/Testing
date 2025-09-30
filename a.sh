@@ -1,3 +1,3 @@
 echo "my name is don."
 
-touch /tmp/jenkigitmailtest
+touch /tmp/jenkigitrem
